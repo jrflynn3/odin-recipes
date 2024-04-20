@@ -1,0 +1,42 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.header {
+    background-color: cornflowerblue;
+    color: darkblue;
+    font-size: 40px;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 30px;
+}
+
+h3 {
+    color: darkblue;
+    font-size: 22px;
+}
+
+.links-list {
+    list-style: none;
+}
+
+ul {
+    list-style: square;
+}
+
+li a {
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
