@@ -28,7 +28,8 @@ body {
 }
 
 .recipe-content {
-    margin: 20px;
+    margin: 20px auto;
+    width: 800px;
 }
 
 h2 {
